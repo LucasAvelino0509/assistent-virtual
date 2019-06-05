@@ -1,0 +1,43 @@
+que horas são|askHour
+horas|askHour
+que dia é hoje|askDate
+sair|close
+tchau lexis|close
+Tchau lexis|close
+Próxima música|nextMusic
+Passar música|nextMusic
+Passa música|nextMusic
+próxima música|nextMusic
+passar música|nextMusic
+passa música|nextMusic
+Música anterior|prevMusic
+Voltar música|prevMusic
+música anterior|prevMusic
+voltar música|prevMusic
+Pausar música|pauMusic
+Parar música|pauMusic
+pausar música|pauMusic
+parar música|pauMusic
+Reproduzir música|repMusic
+Tocar música|repMusic
+Continuar música|repMusic
+reproduzir música|repMusic
+tocar música|repMusic
+continuar música|repMusic
+Recarregar comandos|relComma
+recarregar comandos|relComma
+Ajuda|help
+Comandos|help
+O que você pode fazer|help
+ajuda|help
+comandos|help
+o que você pode fazer|help
+Estudar conversas|study
+estudar conversas|study
+Mudar volume para|volumeChg
+mudar volume para|volumeChg
+Comando bater cartão|btrCard
+comando bater cartão|btrCard
+Instalar biblioteca|insLib
+instalar biblioteca|insLib
+me conte uma piada|telljoke
